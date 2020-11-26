@@ -97,4 +97,5 @@ PRODUCT_PACKAGES += \
     DevicePersonalizationPrebuiltPixel2020 \
     MarkupGoogle \
     SafetyHubPrebuilt \
+    SettingsIntelligenceGooglePrebuilt \
     SoundPickerPrebuilt
