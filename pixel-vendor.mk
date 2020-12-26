@@ -93,7 +93,8 @@ PRODUCT_COPY_FILES += \
     vendor/google/pixel/proprietary/product/media/audio/ui/camera_focus.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/camera_focus.ogg
 
 PRODUCT_PACKAGES += \
-    MarkupGoogle \
-    SoundPickerPrebuilt \
+    AndroidMigratePrebuilt \
     DevicePersonalizationPrebuiltPixel2020 \
-    SafetyHubPrebuilt
+    MarkupGoogle \
+    SafetyHubPrebuilt \
+    SoundPickerPrebuilt
