@@ -7,6 +7,7 @@ product/etc/res/images/charger/battery_scale.png
 product/etc/res/images/charger/main_font.png
 product/etc/res/values/charger/animation.txt
 product/etc/sysconfig/google.xml:product/etc/sysconfig/pixel.xml
+product/etc/sysconfig/pixel_2016_exclusive.xml|f92443f76f9af566813e08495f00c37a882af824
 product/etc/sysconfig/pixel_experience_2017.xml
 product/etc/sysconfig/pixel_experience_2018.xml
 product/etc/sysconfig/pixel_experience_2019_midyear.xml
